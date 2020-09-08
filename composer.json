@@ -1,0 +1,19 @@
+{
+	"name": "bigoen/parasut-contracts",
+	"type": "php",
+	"description": "Parasut contracts.",
+	"license": "LGPL-3.0",
+	"authors": [
+		{
+			"name": "Şafak Saylam",
+			"homepage": "https://safaksaylam.com",
+			"email": "safak@bigoen.com"
+		}
+	],
+	"prefer-stable": true,
+	"autoload": {
+		"psr-4": {
+			"Bigoen\\Contracts\\Parasut\\": "src/"
+		}
+	}
+}
